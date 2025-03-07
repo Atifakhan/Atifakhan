@@ -2,11 +2,11 @@
 
 🔹 Passionate about **Networking, Cybersecurity, AI & IoT Security**  
 🔹 Network Analyst at **PTCL** | Community Aid Service Manager at **Human Care Foundation**  
-🔹 Exploring **5G Security, AI Research, and Auto Keyboard Input with ESP32-S3**  
+🔹 Exploring **5G Security, AI Research, and Auto Keyboard Input with ESP32-S3 - (Humand Interface Device)**  
 
 ## 🚀 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white)],(https://www.netacad.com/)  
+| ![Networking](https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white) | [NetAcad](https://www.netacad.com/) 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6F00?style=for-the-badge&logo=kali-linux&logoColor=white)  
 
 ## 📊 GitHub Stats  
