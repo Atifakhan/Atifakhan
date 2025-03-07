@@ -5,7 +5,7 @@
 🔹 Exploring **5G Security, AI Research, and Auto Keyboard Input with ESP32-S3 - (Humand Interface Device)**  
 
 ## 🚀 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)] (https://www.python.org/about/gettingstarted/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/about/gettingstarted/)
 | [![Networking](https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/) 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6F00?style=for-the-badge&logo=kali-linux&logoColor=white)  
 
