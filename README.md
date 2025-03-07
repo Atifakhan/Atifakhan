@@ -1,4 +1,4 @@
-                                                                           👋 Hi, I'm Muhammad Atif
+                                                     👋 Hi, I'm Muhammad Atif
 
 🔹 Passionate about **Networking, Cybersecurity, AI & IoT Security**  
 🔹 Network Analyst at **PTCL** | Community Aid Service Manager at **Human Care Foundation**  
